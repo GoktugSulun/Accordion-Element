@@ -16,6 +16,7 @@
 }
 
 * body .container {
+  background: #fff;
   width: 350px;
   height: auto;
   -webkit-box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
